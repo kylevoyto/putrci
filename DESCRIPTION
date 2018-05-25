@@ -1,0 +1,9 @@
+Package: putrci
+Title: Practice Using TRavis CI
+Version: 0.0.0.9000
+Authors@R: person("Kyle", "Voytovich", email = "kylevoyto@gmail.com", role = c("aut", "cre"))
+Description: This project is for practicing with Travis CI. (Practice Using TRavis CI = putrci).
+Depends: R (>= 3.4.3)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
